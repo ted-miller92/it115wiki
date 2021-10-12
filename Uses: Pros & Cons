@@ -1,0 +1,11 @@
+Uses: Pros & Cons
+
+RoR is usually utilized with a database server, such as MySQL or PostgreSQL, and a web server like Apache. JSON or XML can be used for data transfer and this stack remains fluid with HTML, CSS and Javascript. Developers using Rails are known to build aesthetically clean and high quality web applications. This framework follows three major design principles that promote simplicity, known as Model-View-Controller or MVC architecture.
+
+The use of the MVC architecture pattern improves maintenance and facilitates decoupling and testing.
+
+As mentioned before, the paradigm of CoC allows developers to create less code to achieve the same results which has a significant effect in applications such as Django. The principality of DRY minimizes development time by 25% to 50% totalling much faster development outcomes as opposed to other frameworks. This is due to the object-orientation of Ruby, lean code base, modular design, extensive open source code by the Rails community and a vast network of plugin solutions ready to rollout on future developments. Dedicated programmers maintain a high adherence to industry standards. And, access to free libraries save developers time and effort creating stable project cost effectiveness. With all of this flair, RoR sounds as if it is nearly the perfect framework.
+
+Unfortunately, efficiency does not always equal effectiveness.
+
+Rails is not free of flaws. Since the framework is constantly evolving, it can become at times chaotic to remain consistent with so many changes occurring. Some web hosts remain comfortable using less resource-intensive solutions like PHP. Due to uncertainty of securing more experienced Rails professionals, many individuals look to Java developers for their business solutions. And, RoR remains inferior to their C or Java peers regarding performance.
